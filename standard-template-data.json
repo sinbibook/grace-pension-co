@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-08T09:40:35.108149345Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-08T09:41:10.920966097Z",
     "templateType": "trip_d",
     "propertyId": "f78cc0ab-2ac2-4b5f-9fdc-6d18242c10c0",
     "homepageId": "3ebbc7e3-75fb-42cd-94ce-6c100830188a"
@@ -1768,6 +1768,26 @@
                 },
                 "about": {
                   "title": "전 객실에서 아름다운 남해바다의\n일출과 일몰을 감상하며 소중한 사람과 특별한 시간을 보내보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a11ae2-29ce-7d32-a506-5e8398224886",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "펜션 인근 바다에서 즐거운 낚시를 즐겨보세요.\n",
                   "images": [ ]
                 },
                 "experience": {
